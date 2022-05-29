@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815708588365",
+    "project_id": "bitirme-9fdf2",
+    "storage_bucket": "bitirme-9fdf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815708588365:android:cb0ac73e7ec963f4af4f04",
+        "android_client_info": {
+          "package_name": "com.falldetection.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815708588365-qbeqkh3788jt7d8840tb645mhb8fvrvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAplX1z-Z0DgBbrL6RT48pssrC78k5Ljj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815708588365-qbeqkh3788jt7d8840tb645mhb8fvrvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
